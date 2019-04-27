@@ -1,3 +1,5 @@
 # code in a screen
 
-## vue computents
+## vue components
+
+1. v-col
